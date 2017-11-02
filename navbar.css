@@ -1,0 +1,61 @@
+
+.topnav {
+    background-color: black;
+    overflow: hidden;
+    width:1200px;
+    height: 90px;
+    color: white;
+    text-transform: uppercase;
+    font-family: arial black;
+    font-size: small;
+    display: inline-block;
+}
+
+.topnav a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    margin-top: 20px;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+.topnav a:hover {
+    background-color: white;
+    color: black;
+}
+
+.topnav a.active {
+    background-color: black;
+    color: white;
+}
+
+#image1 {
+  height: 90px;
+  margin: -14px -16px;
+  margin-top: -34px;
+}
+
+#image2 {
+  height: 27.7px;
+  width: 25px;
+  margin-left: 215px;
+  margin-top: -200px;
+
+}
+ul {
+    list-style-type: none;
+    margin-top: -30px;
+    padding-left: 420px;
+    overflow: hidden;
+}
+#bar{
+  background-color: white;
+  height:0px;
+  width: 15px;
+  display: inline-block;
+  padding-right: 200px;
+  margin-top: 31px;
+}

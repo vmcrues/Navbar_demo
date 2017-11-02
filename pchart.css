@@ -1,0 +1,40 @@
+#mainbox {
+  border:25px solid white;
+  background-color: white;
+  height: 200px;
+  width: 400px;
+  margin: 0px auto;
+  display: inline-block;
+
+}
+.subcont1 {
+  background-color: red;
+  height: 150px;
+  width: 150px;
+  display: inline-block;
+  border-top-left-radius: 150px;
+}
+
+.subcont2 {
+  background-color: yellow;
+  height: 150px;
+  width: 150px;
+  display: inline-block;
+  border-top-right-radius: 150px;
+}
+
+.subcont3 {
+  background-color: blue;
+  height: 150px;
+  width: 150px;
+  display: inline-block;
+  border-bottom-left-radius: 150px;
+}
+
+.subcont4 {
+  background-color: green;
+  height: 150px;
+  width: 150px;
+  display: inline-block;
+  border-bottom-right-radius: 150px;
+}
